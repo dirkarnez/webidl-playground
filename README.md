@@ -1,6 +1,6 @@
 webidl-playground
 =================
-Use [**jsdom/webidl2js: Auto-generate JS class structures for Web IDL specifications**](https://github.com/jsdom/webidl2js)
+Use [**jsdom/webidl2js: Auto-generate JS class structures for Web IDL specifications**](https://github.com/jsdom/webidl2js) and [**chromium/tools/idl_parser at main · chromium/chromium**](https://github.com/chromium/chromium/tree/main/tools/idl_parser)
 
 ### TODOs
 - [w3c/webidl2.js: WebIDL parser](https://github.com/w3c/webidl2.js/)
